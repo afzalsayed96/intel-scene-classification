@@ -3,7 +3,7 @@
 ## Requirements
 - fastai==1.0.49 ([instructions](https://github.com/fastai/fastai/blob/master/README.md#installation))
 - numpy
-- padas
+- pandas
 - pytorch
 
 ## Code Structure
